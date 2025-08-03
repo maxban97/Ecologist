@@ -1,0 +1,9 @@
+{
+  "name": "Ecologist",
+  "version": "0.1.0",
+  "title": "Ecologist Achievement",
+  "author": "Your Name",
+  "factorio_version": "2.0",
+  "description": "Adds an achievement for launching a rocket without causing pollution-based biter attacks or killing nests.",
+  "dependencies": ["base"]
+}
